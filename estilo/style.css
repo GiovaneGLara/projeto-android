@@ -59,7 +59,7 @@ header{
 header > h1{
     color: white;
 
-    font-family: var(--fonte-destaque);
+    font-family: var(--fonte-padrao);
 
     font-size: 2em;
 
